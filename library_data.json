@@ -1,0 +1,1 @@
+{"books": {"101": {"Book ID": 101, "Title": "Truth", "Author": "AP", "Quantity": 2}, "102": {"Book ID": 102, "Title": "Vedant", "Author": "AP", "Quantity": 3}, "103": {"Book ID": 103, "Title": "Fear", "Author": "APT", "Quantity": 4}}, "borrowers": {"101": [111]}}
